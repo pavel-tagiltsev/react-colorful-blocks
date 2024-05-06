@@ -1,0 +1,7 @@
+export const INITIAL_LIME_LEFT = 20;
+export const MIN_BLOCKS = 10;
+export const MAX_BLOCKS = 20;
+export const DELETE_RANDOM_BLOCK_INTERVAL = INITIAL_LIME_LEFT * 1000;
+export const COUNT_DOWN_STOP = 1;
+export const COUNT_DOWN_INTERVAL = 1000;
+export const ALERT_DISAPPEARING_TIMEOUT = INITIAL_LIME_LEFT * 1000 / 2;

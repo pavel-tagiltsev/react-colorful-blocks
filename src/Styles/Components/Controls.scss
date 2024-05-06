@@ -1,0 +1,30 @@
+.controls {
+  border-radius: 10px;
+  padding: 20px;
+  border: 1px solid darkgray;
+  margin-bottom: 20px;
+
+  &__panel {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 60px auto 60px;
+    gap: 15px;
+  }
+
+  &__form {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 60px 60px;
+    gap: 10px;
+  }
+
+  &__sort {
+    &--ascending {
+      background-color: lightskyblue;
+    }
+
+    &--descending {
+      background-color: lightcoral;
+    }
+  }
+}

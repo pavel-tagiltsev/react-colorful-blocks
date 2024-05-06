@@ -1,0 +1,58 @@
+.block {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border-radius: 10px;
+  border: 1px solid darkgrey;
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  padding: 15px;
+
+  &__order {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid darkgrey;
+    min-width: 24px;
+    font-size: 12px;
+    background-color: white;
+    padding: 5px;
+    border-radius: 5px;
+  }
+
+  &__value {
+    font-size: 16px;
+  }
+
+  &__timer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid darkgrey;
+    min-width: 24px;
+    font-size: 12px;
+    background-color: white;
+    padding: 5px;
+    border-radius: 5px;
+  }
+
+  &__countdown {
+    font-size: 20px;
+    color: darkgreen;
+
+    &--half {
+      color: orange;
+    }
+
+    &--finish {
+      color: red;
+    }
+  }
+
+  &__reset {
+    font-size: 12px;
+    padding: 5px;
+    border-radius: 5px;
+  }
+}
