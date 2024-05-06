@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pavel-tagiltsev/react-colorful-blocks/static/css/main.eb8baa73.css",
-    "main.js": "/pavel-tagiltsev/react-colorful-blocks/static/js/main.72ef53a9.js",
-    "static/js/453.73d7c390.chunk.js": "/pavel-tagiltsev/react-colorful-blocks/static/js/453.73d7c390.chunk.js",
-    "index.html": "/pavel-tagiltsev/react-colorful-blocks/index.html",
-    "main.eb8baa73.css.map": "/pavel-tagiltsev/react-colorful-blocks/static/css/main.eb8baa73.css.map",
-    "main.72ef53a9.js.map": "/pavel-tagiltsev/react-colorful-blocks/static/js/main.72ef53a9.js.map",
-    "453.73d7c390.chunk.js.map": "/pavel-tagiltsev/react-colorful-blocks/static/js/453.73d7c390.chunk.js.map"
+    "main.css": "/react-colorful-blocks/static/css/main.eb8baa73.css",
+    "main.js": "/react-colorful-blocks/static/js/main.1c2b68e5.js",
+    "static/js/453.73d7c390.chunk.js": "/react-colorful-blocks/static/js/453.73d7c390.chunk.js",
+    "index.html": "/react-colorful-blocks/index.html",
+    "main.eb8baa73.css.map": "/react-colorful-blocks/static/css/main.eb8baa73.css.map",
+    "main.1c2b68e5.js.map": "/react-colorful-blocks/static/js/main.1c2b68e5.js.map",
+    "453.73d7c390.chunk.js.map": "/react-colorful-blocks/static/js/453.73d7c390.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb8baa73.css",
-    "static/js/main.72ef53a9.js"
+    "static/js/main.1c2b68e5.js"
   ]
 }
