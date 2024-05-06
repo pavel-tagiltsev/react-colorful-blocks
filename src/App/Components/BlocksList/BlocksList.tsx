@@ -17,7 +17,7 @@ export const BlocksList: React.FC<IBlocksListProps> = (props) => {
       <h2 className="heading heading--h2">Blocks list</h2>
       <ul className="blocks-list__list">
         <AnimatePresence>
-          {blocks.map(({id, color, timeLeft, order}, index) => (
+          {blocks.map(({id, color, timeLeft, order}) => (
               <motion.li
                 key={id}
                 className="blocks-list__item"
